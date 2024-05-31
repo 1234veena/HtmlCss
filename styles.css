@@ -1,0 +1,24 @@
+h2{
+    font-style: italic;
+    color: brown;
+    
+}
+body{
+    background-color: azure;
+}
+.bury{
+    color: blue;
+}
+.paragraph{
+    color: blueviolet;
+}
+#blueflag{
+    color: chocolate;
+}
+[In]{
+    color: chartreuse;
+}
+h1,
+h2{
+    color: chartreuse;
+}
