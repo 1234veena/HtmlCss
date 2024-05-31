@@ -1,13 +1,16 @@
 h2{
     font-style: italic;
     color: brown;
-    
+    background-image: url("C:\Users\Acer\Desktop\HtmlCss\flower.jpg");
 }
 body{
     background-color: azure;
+   
 }
+
 .bury{
     color: blue;
+    opacity: 0.4;
 }
 .paragraph{
     color: blueviolet;
